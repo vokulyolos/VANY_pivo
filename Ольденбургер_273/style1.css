@@ -1,0 +1,47 @@
+header{
+    background-color: grey	;
+    width: 100%;
+    height: 200px;
+}
+
+footer{
+    background-color: darkblue;
+    width: 100%;
+    height: 50%;
+}
+
+aside{
+border: 2px solid black;
+width: 200px;
+}
+
+section{
+   
+
+}
+
+main{
+    display: flex;
+    flex-direction: row;
+}
+
+.card_product{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+.card {
+    border: 2px solid ;
+    width: 200px;
+    padding: 5px;
+}
+
+.card_img{
+    width: 190px;
+}
+
+.title{
+    text-decoration: none;
+    color: black;
+}

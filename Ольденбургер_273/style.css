@@ -1,0 +1,65 @@
+.AV{
+    font-size: 2em;
+    font-style: italic;
+    font-stretch: ultra-expanded;
+    font-weight:900;
+    font-family: fantasy;
+    text-align: center;
+}
+
+.av-bt{
+background-color: black;
+color:red;
+border-radius: 20px;
+padding: 10px;
+cursor: pointer;
+}
+
+.q{
+color: brown;
+font-family: fantasy;
+}
+
+.w{
+    color: brown;
+font-family: fantasy;
+}
+
+.m{
+    color: blue;
+    font-family: fantasy;
+}
+
+.g
+{
+    color: darkorchid;
+    font-family: fantasy;
+}
+
+.l{
+    color: coral;
+    font-family: fantasy;
+}
+
+body{
+    font-family: Arial, sans-serif;
+    background-color: darkgrey;
+    padding: 20px;
+}
+form{
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 5%;
+    width: 300px;
+    margin: auto;
+}
+
+
+
+
+
+.t{
+    color: chocolate;
+    font-family: fantasy;
+}
+
